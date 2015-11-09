@@ -18,7 +18,7 @@
 
 body {
 
-	background: url('sf.jpg');
+	background: image-url('sf.jpg');
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
