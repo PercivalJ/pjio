@@ -47,15 +47,13 @@ group :development do
 end
 
 
-group :production, :staging do
-  gem "pg"
-end
+# group :production, :staging do
+#   gem "pg"
+# end
 
 # group :development, :test do
 #   gem "sqlite3-ruby"
 # end
-
-
 
 
 ruby '2.2.0' 
